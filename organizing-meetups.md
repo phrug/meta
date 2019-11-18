@@ -26,8 +26,9 @@ AELOGICA (Philippines) Inc.
 https://goo.gl/maps/RCMrmBBfQeRwJpAeA
 ```
 
-Angat.io / KMC Solutions
+Angat.io
 ```
+KMC Solutions
 25th Floor Picadilly Star Building
 4th Ave. corner 27th Street
 Taguig, Metro Manila
