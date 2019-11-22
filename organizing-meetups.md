@@ -20,13 +20,23 @@ _NOTE: This is a public document. Please get clearance from the contact person f
 
 These are the organizations who have expressed interest, or have hosted, a PhRUG meetup in the past:
 
-AELOGICA (Philippines) Inc.
+#### AELOGICA (Philippines) Inc.
 ```
 8F Ecotower 9th Ave. cor. 32nd St. Bonifacio Global City, Taguig City
 https://goo.gl/maps/RCMrmBBfQeRwJpAeA
 ```
 
-Angat.io
+#### Angat.io
+PhRUG contacts: @terenceponce, @radamanthus
+
+Contact:
+```
+Maybellene Ferrer
+contact@angat.io
+maybellene@angat.io
+```
+
+Address:
 ```
 KMC Solutions
 25th Floor Picadilly Star Building
