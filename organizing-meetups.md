@@ -50,3 +50,25 @@ Freelancer
 ProudCloud
 
 SourcePad
+
+####  Filta
+PhRUG contacts: @padi
+
+Address:
+```
+L5 St. Francis Square Building Julia Vargas Ave, Cor Bank Dr,
+Ortigas Centre, Mandaluyong, 1550 Metro Manila
+https://g.page/Filta?share
+```
+
+Contact:
+```
+Efren Chaux
+https://www.linkedin.com/in/efrenchaux/
+
+Denny Bando
+https://www.linkedin.com/in/denny-bando-897431162/
+
+Nerissa Chaux
+https://www.linkedin.com/in/nerissachaux/
+```
