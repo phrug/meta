@@ -52,15 +52,21 @@ This will require constant attention from the community. We'll need to organize 
 
 Right now, there are no alternatives considered.
 
-# Unresolved questions
+# Resolved questions
+- [x] What teleconferencing platform are we going to use? Also, which account are we using?
+  - Zoom has a feature for webinars and meetings. The first meetup happened using a Zoom meeting. Hopefully, the subsequent meetups will converted to Zoom Webinars.
+- [x] Are we streaming the meetups? To which platforms?
+  - Facebook
+  - Youtube
+- [x] Are we recording the meetups? Who's resposible for this?
+  - Zoom has a feature to record the webinar/meeting. We can use that video and upload to PHRUG's Youtube channel
+- [x] During the meetup, what is the procedure to asking questions to the speaker?
+  - Participants can ask questions via the Chat option.
+- [x] Are we accepting sponsors?
+  - We're accepting sponsors for the meetup. 
+- [x] Should we use xSplit or OBS for playing the pre-recorded talks?
+  - We're not using any streaming software right now. I'll be updating this RFC once I figure it out 
 
-- [ ] What teleconferencing platform are we going to use? Also, which account are we using?
-  - [ ] Zoom
-  - [ ] Discord
-- [ ] Are we streaming the meetups? To which platforms?
-- [ ] Are we recording the meetups? Who's resposible for this?
-- [ ] During the meetup, what is the procedure to asking questions to the speaker?
-- [ ] Are we accepting sponsors?
+# Unresolved questions
 - [ ] Are we accepting lightning talks?
-- [ ] Should we use xSplit or OBS for playing the pre-recorded talks?
 - [ ] What is the fail-safe procedure in case there are no speakers for the meetup?
